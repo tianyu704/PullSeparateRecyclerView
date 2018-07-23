@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PullSeparateRecyclerView">
+        <attr name="separate_all" format="boolean" />
+        <attr name="showDownAnim" format="boolean" />
+    </declare-styleable>
+</resources>
